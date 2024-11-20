@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levene_Nov20", "Levene_Nov20.csproj", "{FD885D1E-BE59-4D03-8F57-3ECC733B3AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD885D1E-BE59-4D03-8F57-3ECC733B3AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD885D1E-BE59-4D03-8F57-3ECC733B3AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD885D1E-BE59-4D03-8F57-3ECC733B3AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD885D1E-BE59-4D03-8F57-3ECC733B3AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95002C42-C32E-4B9C-A16F-54CED4D635B7}
+	EndGlobalSection
+EndGlobal
